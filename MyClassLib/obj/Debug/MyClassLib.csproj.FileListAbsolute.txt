@@ -1,0 +1,6 @@
+C:\Users\anuar\source\repos\ITwilio\MyClassLib\bin\Debug\MyClassLib.dll
+C:\Users\anuar\source\repos\ITwilio\MyClassLib\bin\Debug\MyClassLib.pdb
+C:\Users\anuar\source\repos\ITwilio\MyClassLib\obj\Debug\MyClassLib.csprojResolveAssemblyReference.cache
+C:\Users\anuar\source\repos\ITwilio\MyClassLib\obj\Debug\MyClassLib.csproj.CoreCompileInputs.cache
+C:\Users\anuar\source\repos\ITwilio\MyClassLib\obj\Debug\MyClassLib.dll
+C:\Users\anuar\source\repos\ITwilio\MyClassLib\obj\Debug\MyClassLib.pdb

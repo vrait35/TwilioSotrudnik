@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2010
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ITwilio", "ITwilio\ITwilio.csproj", "{9753209D-BF86-4C3B-B136-374213714082}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyClassLib", "MyClassLib\MyClassLib.csproj", "{BDC1C09F-64EE-49D7-984A-83F73730B051}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9753209D-BF86-4C3B-B136-374213714082}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9753209D-BF86-4C3B-B136-374213714082}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9753209D-BF86-4C3B-B136-374213714082}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9753209D-BF86-4C3B-B136-374213714082}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BDC1C09F-64EE-49D7-984A-83F73730B051}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BDC1C09F-64EE-49D7-984A-83F73730B051}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BDC1C09F-64EE-49D7-984A-83F73730B051}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BDC1C09F-64EE-49D7-984A-83F73730B051}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {96D2A0F4-C1E3-43F3-B637-C9391DD4BA83}
+	EndGlobalSection
+EndGlobal
